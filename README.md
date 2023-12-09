@@ -1,7 +1,7 @@
 # TextToImage-Generator
 Build Text-to-Image Generator model using Stable Diffusion v2
 
-#Detailed Summary of the TextToImageGenerator Project
+# Detailed Summary of the TextToImageGenerator Project
 
 ---
 
