@@ -1,10 +1,8 @@
-# TextToImage-Generator
-Build Text-to-Image Generator model using Stable Diffusion v2
+## TextToImage-Generator
+### Build Text-to-Image Generator model using Stable Diffusion v2
 
-# Detailed Summary of the TextToImageGenerator Project
-
+### Detailed Summary of the TextToImageGenerator Project
 ---
-
 ### 1. Environment Setup
 The project starts with installing essential Python libraries for image generation and natural language processing. The diffusers and transformers libraries are central to this process, facilitating advanced image generation capabilities and efficient language model utilization.
 
