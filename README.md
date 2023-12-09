@@ -1,20 +1,17 @@
 # TextToImage-Generator
 Build Text-to-Image Generator model using Stable Diffusion v2
 
-# **Detailed Summary of the TextToImageGenerator Project**
+#Detailed Summary of the TextToImageGenerator Project
 
 ---
 
-# 1. Environment Setup
-
+### 1. Environment Setup
 The project starts with installing essential Python libraries for image generation and natural language processing. The diffusers and transformers libraries are central to this process, facilitating advanced image generation capabilities and efficient language model utilization.
 
-# 2. Library Import
-
+### 2. Library Import
 The project imports critical libraries for handling file paths (pathlib), progress tracking (tqdm), tensor computations (torch), data manipulation (pandas, numpy), and image processing (matplotlib.pyplot, cv2). The StableDiffusionPipeline from diffusers and set_seed from transformers are particularly important for initializing and configuring the image generation model.
 
-
-# 3. Configuration Class (CFG)
+### 3. Configuration Class (CFG)
 
 The CFG class defines crucial parameters:
 
